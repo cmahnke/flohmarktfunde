@@ -1,3 +1,8 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "de"
 title = "My New Hugo Site"
+publishDir = "docs"
+canonifyurls = true
+disableKinds = ["term", "taxonomy"]
+languagecode = "de"
+defaultcontentlanguage = "de"
