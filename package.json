@@ -1,9 +1,13 @@
 {
   "scripts": {
     "build": "hugo",
+    "logo": "node_modules/.bin/pngcrush -d static/images Source\\ Files/Logo/Logo.png ",
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
   "dependencies": {
     "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "pngcrush": "^2.1.0"
   }
 }
