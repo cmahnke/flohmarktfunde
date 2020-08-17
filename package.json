@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "hugo",
-    "logo": "node_modules/.bin/pngcrush -d static/images Source\\ Files/Logo/Logo.png ",
+    "logo": "node_modules/.bin/pngcrush -ow static/images/logo.png ",
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
   "dependencies": {

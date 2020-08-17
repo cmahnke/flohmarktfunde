@@ -10,26 +10,26 @@ disablePathToLower = true
 
 [params]
 copyrightYears = "2014 - 2016"
-logo = "/images/flohmarktfunde.png"
+logo = "/images/logo.png"
 
 [menu]
     [[menu.main]]
-        name = "Start"
+        name = "Home"
         weight = 1
         url = "/"
 
     [[menu.main]]
-        name = "Über"
+        name = "Über dieses Blog"
         weight = 2
         url = "about/"
 
     [[menu.main]]
-        name = "Quellen"
+        name = "Flohmärkte und Trödelläden"
         weight = 3
         url = "sources/"
 
     [[menu.main]]
-        name = "Links"
+        name = "Informationsquellen"
         weight = 4
         url = "links/"
 

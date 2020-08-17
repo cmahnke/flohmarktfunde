@@ -14,6 +14,10 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Scale Logo
+        run: |
+          convert -resize 640x480 "Source Files/Logo/Logo.png" static/images/logo.png
+
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
