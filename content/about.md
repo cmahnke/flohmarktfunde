@@ -30,13 +30,9 @@ Zu jedem Gegenstand werden einige weitere Informationen angeboten, unter anderem
 
 Die verwendeten Schlagworte beschreiben in der Regel den Einsatzweck / Art, das verwendete Material, sowie ggf. den Hersteller.
 
-# Meine weiteren Blogs
+# Meine anderen Blogs
 
-*   [Diapräsentation](http://diapraesentation.tumblr.com/)
-*   [Hässliche Plastiktiere und Zeugs](http://haesslicheplastiktiereundzeugs.tumblr.com/)
-*   [Nebeleule (mit anderen)](http://nebeleule.de/)
-*   [Yet another analog photo blog](http://yaapb.tumblr.com/)
-
+Meine anderen Blogs sind nun auf [Projektemacher.org](https://projektemacher.org/) verzeichnet.
 
 # Kolophon
 
