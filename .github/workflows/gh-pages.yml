@@ -25,6 +25,7 @@ jobs:
       - name: Install Node dependencies
         run: |
           yarn install
+          yarn run logo
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
