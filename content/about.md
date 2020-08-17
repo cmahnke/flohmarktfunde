@@ -45,3 +45,9 @@ Diese Seite wurde mit [Hugo](https://gohugo.io/) generiert. Das Theme basiert au
 Als Javascript Framework kommt [jQuery](https://jquery.com/) zum Einsatz.
 
 Das [Einbinden der Bilder]({{ if hasPrefix .Page.File.Path "about" }}) und die [Anzeige des deutschen Datumformats](https://pfischbeck.de/en/posts/multilingual-dates-in-hugo/) sind aus den jeweils angebenen Quellen übernommen.
+
+#Kontakt
+
+"Krähenbeißer" ist ein Projekt von **Christian Mahnke**.
+
+Kontakt ist via [E-Mail](mailto:flohmarktfunde@projektemacher.org) möglich.
