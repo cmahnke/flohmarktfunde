@@ -1,8 +1,58 @@
 baseURL = "http://example.org/"
 languageCode = "de"
-title = "My New Hugo Site"
+title = "Flohmarktfunde"
 publishDir = "docs"
 canonifyurls = true
 disableKinds = ["term", "taxonomy"]
 languagecode = "de"
 defaultcontentlanguage = "de"
+disablePathToLower = true
+
+[params]
+copyrightYears = "2014 - 2016"
+logo = "/images/flohmarktfunde.png"
+
+[menu]
+    [[menu.main]]
+        name = "Start"
+        weight = 1
+        url = "/"
+
+    [[menu.main]]
+        name = "Über"
+        weight = 2
+        url = "about/"
+
+    [[menu.main]]
+        name = "Quellen"
+        weight = 3
+        url = "sources/"
+
+    [[menu.main]]
+        name = "Links"
+        weight = 4
+        url = "links/"
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[module]
+    [[module.mounts]]
+        source = "assets/scss"
+        target = "assets/scss"
+
+    [[module.mounts]]
+        source = "assets/css"
+        target = "assets/css"
+
+    [[module.mounts]]
+        source = "static"
+        target = "static"
+
+    [[module.mounts]]
+        source = "node_modules/jquery/dist"
+        target = "assets/js/jquery"
+
+    [[module.mounts]]
+        source = "static"
+        target = "static"

@@ -24,7 +24,7 @@
         <div class="caption">
           {{ .Content }}
         </div>
-        {{ if not (hasPrefix .Page.File.Path "about") }}
+        {{ if not .Params.metaPage }}
           <div class="metadata">
             <div class="date">
               <a href="{{ .RelPermalink }}">
