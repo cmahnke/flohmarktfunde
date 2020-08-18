@@ -4,7 +4,7 @@
   </div>
     <div class="blog-title">
       {{ if .Site.Params.logo }}
-        <a href="/"><img src="{{ .Site.Params.logo }}" alt="{Title}"/></a>
+        <a href="/"><img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}"/></a>
       {{ end }}
       <h1><a href="/">{{ .Site.Title }}</a></h1>
     </div>

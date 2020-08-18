@@ -30,6 +30,8 @@ Zu jedem Gegenstand werden einige weitere Informationen angeboten, unter anderem
 
 Die verwendeten Schlagworte beschreiben in der Regel den Einsatzweck / Art, das verwendete Material, sowie ggf. den Hersteller.
 
+{{< tagcloud >}}
+
 # Meine anderen Blogs
 
 Meine anderen Blogs sind nun auf [Projektemacher.org](https://projektemacher.org/blogs/) verzeichnet.

@@ -1,7 +1,12 @@
-<div id="content">
-    {{ $pages := .Site.RegularPages }}
-    {{ $paginator := .Paginate (where $pages "Params.displayinlist" "!=" false) -}}
+{{ $pages := .Pages }}
+{{ if .IsHome }}
+    {{ $pages = .Site.RegularPages }}
+{{ end }}
+{{ $paginator := .Paginate (where $pages "Params.displayinlist" "!=" false) -}}
     {{- range $paginator.Pages -}}
+
+{{ partial "page.html" . }}
+{{/*
       {{ $type := "text" }}
       {{ if .Params.postType }}
         {{ $type = .Params.postType }}
@@ -32,26 +37,34 @@
               <a href="{{ .RelPermalink }}">
                 {{- partial "date.html" (dict "date" .Date "language" $.Page.Language "months" $.Site.Data.months) -}}
               </a>
-              {{ if .Params.tumblr_url }}
-                <span class="tumblr-url">
-                  <a href="{{ .Params.tumblr_url }}">Original auf Tumblr</a>
-                </span>
+              {{ if .Site.Params.linkTumblr }}
+                {{ if .Params.tumblr_url }}
+                  <span class="tumblr-url">
+                    <a href="{{ .Params.tumblr_url }}">Original auf Tumblr</a>
+                  </span>
+                {{ end }}
               {{ end }}
+            </div>
+            <div class="tags">
+                {{ if isset .Params "tags" }}
+                    {{ range $tag := .Params.tags }}
+                        <a href="{{ "tags/" | relLangURL }}{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
+                    {{ end }}
+                {{ end }}
             </div>
           </div>
       </div>
     </div>
+*/}}
   {{ end }}
 
-  {{ if or ($paginator.HasPrev) ($paginator.HasNext) -}}
-    <h2 class="pagination">
-      {{ if $paginator.HasPrev }}
-        <a class="back-next" href="{{ $paginator.Prev.URL }}">Back</a>
-      {{ end }}
-      {{ if $paginator.HasNext }}
-        <a class="back-next" href="{{ $paginator.Next.URL }}">Next</a>
-      {{ end }}
-    </h2>
-  {{- end }}
-
-</div>
+{{ if or ($paginator.HasPrev) ($paginator.HasNext) -}}
+<h2 class="pagination">
+  {{ if $paginator.HasPrev }}
+    <a class="back-next" href="{{ $paginator.Prev.URL }}">Back</a>
+  {{ end }}
+  {{ if $paginator.HasNext }}
+    <a class="back-next" href="{{ $paginator.Next.URL }}">Next</a>
+  {{ end }}
+</h2>
+{{- end }}

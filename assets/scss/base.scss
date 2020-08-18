@@ -89,7 +89,7 @@ body {
 .tumblr-url {
 	float: right;
 	text-align: right;
-	visibility: hidden;
+	display: none;
 }
 
 .pagination {
@@ -143,4 +143,18 @@ body.about {
 
 #page {
     max-width: 640px;
+}
+
+.tagcloud {
+    padding: .6rem;
+    line-height: initial;
+
+    a {
+        text-decoration: none;
+        border-bottom: unset;
+    }
+
+    .cloud-tag {
+        padding: .4rem;
+    }
 }

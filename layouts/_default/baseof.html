@@ -45,9 +45,9 @@
     <body class="{{ $class }}">
       <div id="page">
         {{ partial "header.html" . }}
-
-        {{ block "content" . }}{{ end }}
-
+        <div id="content">
+            {{ block "content" . }}{{ end }}
+        </div>
         {{ partial "footer.html" . }}
       </div>
   </body>
