@@ -1,3 +1,4 @@
+@import "observer";
 $color-bg: #fff;
 $color-sec-text: #888888;
 $color-body-text: #333333;
@@ -10,151 +11,14 @@ $font-title: futura;
 $font-body: futura;
 $font-sec: futura;
 
-// Replacements for Futura: Futura,Trebuchet MS,Arial,sans-serif
-
-body {
-	color: $color-body-text;
-	background-color: $color-bg;
-}
-
-.blog-description {
-	color: $color-sec-text;
-}
-
-a {
-	color: $color-link-text;
-	text-decoration: none;
-	border-bottom: 1px solid rgba(136, 136, 136, 0.3);
-}
-
-#header h1 a {
-	color: $color-header-text;
-	border-bottom: none;
-}
-
-a:hover {
-	color: $color-link-hover;
-}
-
-a:active {
-	position: relative;
-	outline: none;
-	top: 1px;
-	color: $color-link-active;
-}
-
-
-.metadata a, #footer-links a, #footer p.promo a, .links a {
-	color: $color-sec-text;
-	border-bottom: none;
-}
-
-.metadata a:hover, #footer-links a:hover, #footer p.promo a:hover, .links a:hover, .more a:hover, a.mobile-player:hover {
-	color: $color-body-text;
-}
-
-.colophon p {
-	color: $color-sec-text;
-}
-
-/* Global fonts
-********************************/
-
-body {
-	font-family: $font-body, georgia, serif;
-	font-weight: normal;
-}
-
-.title h1, .link-title h1, .chat-title h1, .q h1, .a h1, .album-info h2, #footer h2 {
-	font-family: $font-title, georgia, serif;
-	font-weight: bold;
-}
-
 .blog-title h1 {
-	font-family: $font-header, futura, helvetica, arial, sans-serif;
-	font-weight: bold;
-	font-size: 76px;
-	line-height: 1em;
+    font-family: $font-header, futura, helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-size: 76px;
+    line-height: 1em;
     margin-top: 1.5rem;
-}
-
-.metadata a {
-	font-family: $font-sec, futura, helvetica, arial, sans-serif;
-	font-weight: normal;
-}
-
-/* Own additions
-********************************/
-
-.tumblr-url {
-	float: right;
-	text-align: right;
-	display: none;
-}
-
-.pagination {
-	text-align: center;
-	margin-bottom: 40px;
-  a {
-		font-family: $font-header, futura, helvetica, arial, sans-serif;
-		font-weight: bold;
-		text-decoration: none;
-		border-bottom: none;
-		&.back-next {
-		    margin: 0px 10px 0px 10px;
-		}
-	}
-	h2 {
-		font-size: 24px;
-		text-align: center;
-		margin-bottom: 40px;
-	}
-}
-
-figure {
-    margin: 0;
-}
-
-.license a img {
-    border-width: 0;
-    max-width: 100%
-}
-
-body.about {
-    //background-position: 97% 97%;
-    background-position: 97% 5em;
-    background-image: url('/images/cm.svg');
-    background-repeat: no-repeat;
-}
-
-.meta .title h1 {
-	  margin-top: 1rem;
-}
-
-@media screen and (max-width: 740px) {
-	#content img {
-		width: 100%
-	}
-
-    .blog-title h1 {
-        font-size: 4rem;
-    }
 }
 
 #page {
     max-width: 640px;
-}
-
-.tagcloud {
-    padding: .6rem;
-    line-height: initial;
-
-    a {
-        text-decoration: none;
-        border-bottom: unset;
-    }
-
-    .cloud-tag {
-        padding: .4rem;
-    }
 }

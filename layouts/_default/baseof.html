@@ -25,11 +25,10 @@
     {{ $js := slice $jqueryLib | resources.Concat "js/concated.js" | minify | fingerprint }}
     <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 
-    {{ $tumblrStyle := resources.Get "css/style.css" }}
     {{ $options := (dict "targetPath" "base.css" "outputStyle" "compressed") }}
     {{ $ourTemplate := resources.Get "scss/base.scss" }}
     {{ $ourStyle := $ourTemplate | resources.ExecuteAsTemplate "scss/base.scss" . | toCSS $options }}
-    {{ $style := slice $tumblrStyle $ourStyle | resources.Concat "css/concated.css" | minify | fingerprint }}
+    {{ $style := slice $ourStyle | resources.Concat "css/concated.css" | minify | fingerprint }}
     <link href="{{ $style.RelPermalink }}" rel="stylesheet" integrity="{{ $style.Data.Integrity }}">
 
     <link rel="icon" href="{{ .Site.Params.favicon | default "/images/favicon.ico" | absURL }}">
