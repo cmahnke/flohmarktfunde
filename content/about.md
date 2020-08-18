@@ -42,7 +42,7 @@ Diese Seite wurde mit [Hugo](https://gohugo.io/) generiert. Das Theme basiert au
 
 Als Javascript Framework kommt [jQuery](https://jquery.com/) zum Einsatz.
 
-Das [Einbinden der Bilder](https://gitlab.com/kaushalmodi/hugo-theme-refined/blob/master/layouts/shortcodes/figure.html) und die [Anzeige des deutschen Datumformats](https://pfischbeck.de/en/posts/multilingual-dates-in-hugo/) sind aus den jeweils angebenen Quellen übernommen.
+Das [Einbinden der Bilder](https://gitlab.com/kaushalmodi/hugo-theme-refined/blob/master/layouts/shortcodes/figure.html), die [Tagcloud](http://www.johann-oberdorfer.eu/blog/2020/02/23/20-02-23_tag_cloud_for_hugo/) und die [Anzeige des deutschen Datumformats](https://pfischbeck.de/en/posts/multilingual-dates-in-hugo/) sind aus den jeweils angebenen Quellen übernommen.
 
 #Kontakt
 
