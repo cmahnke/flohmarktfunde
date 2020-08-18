@@ -32,7 +32,7 @@ Die verwendeten Schlagworte beschreiben in der Regel den Einsatzweck / Art, das 
 
 # Meine anderen Blogs
 
-Meine anderen Blogs sind nun auf [Projektemacher.org](https://projektemacher.org/) verzeichnet.
+Meine anderen Blogs sind nun auf [Projektemacher.org](https://projektemacher.org/blogs/) verzeichnet.
 
 # Kolophon
 

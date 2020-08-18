@@ -33,7 +33,8 @@
     <link href="{{ $style.RelPermalink }}" rel="stylesheet" integrity="{{ $style.Data.Integrity }}">
 
     <link rel="icon" href="{{ .Site.Params.favicon | default "/images/favicon.ico" | absURL }}">
-
+    {{ hugo.Generator }}
+  </head>
     {{ $class := "" }}
     {{ if hasPrefix .Page.File.Path "about" }}
         {{ $class = "about" }}
