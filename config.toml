@@ -43,14 +43,6 @@ linkTumblr = true
         target = "assets/scss"
 
     [[module.mounts]]
-        source = "assets/css"
-        target = "assets/css"
-
-    [[module.mounts]]
-        source = "static"
-        target = "static"
-
-    [[module.mounts]]
         source = "node_modules/jquery/dist"
         target = "assets/js/jquery"
 
