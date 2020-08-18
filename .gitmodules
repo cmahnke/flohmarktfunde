@@ -1,0 +1,3 @@
+[submodule "themes/observer-hugo"]
+	path = themes/observer-hugo
+	url = https://github.com/cmahnke/observer-hugo.git
