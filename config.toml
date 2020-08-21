@@ -12,6 +12,9 @@ theme = "observer-hugo"
 copyrightYears = "2014 - 2016"
 logo = "/images/logo.png"
 linkTumblr = true
+author = "Christian Mahnke"
+keywords = "Flohmarkt, Trödel, Antiquariat, Flea market, Göttingen, Bremen"
+description = "Fundstücke vom Flohmarkt und aus Trödelläden"
 
 [menu]
     [[menu.main]]
