@@ -19,6 +19,10 @@ $font-sec: futura;
     margin-top: 1.5rem;
 }
 
+.caption {
+    font-family: $font-body, futura, helvetica, arial, sans-serif !important;
+}
+
 #page {
     max-width: 640px;
 }
