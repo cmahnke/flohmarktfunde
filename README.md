@@ -1,4 +1,5 @@
-Dia Präsentation
+Flohmarktfunde
+==============
 
 # Setup for local (offine) development
 
