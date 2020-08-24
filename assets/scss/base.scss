@@ -10,6 +10,7 @@ $font-header: futura;
 $font-title: futura;
 $font-body: futura;
 $font-sec: futura;
+$font-menu: futura;
 
 .blog-title h1 {
     font-family: $font-header, futura, helvetica, arial, sans-serif;
@@ -33,4 +34,8 @@ $font-sec: futura;
 
 .tumblr-url {
     display: none;
+}
+
+#header {
+    font-family: $font-menu;
 }
