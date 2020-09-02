@@ -20,10 +20,28 @@ $font-menu: futura;
     margin-top: 1.5rem;
 }
 
+@media screen and (max-width: 900px) {
+    .blog-title h1 {
+        font-size: 5rem;
+    }
+}
+
 @media screen and (max-width: 740px) {
-    .blog-title {
-        h1 {
-            font-size: 48px;
+    .blog-title h1 {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .blog-title h1 {
+        font-size: 2rem;
+    }
+
+    #header .links {
+        .menu-title, .menu-title-short {
+            a {
+                font-size: 1.4rem;
+            }
         }
     }
 }
