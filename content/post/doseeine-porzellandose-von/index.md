@@ -4,7 +4,7 @@ tags:
 - Porzellan
 tumblr_url: https://flohmarktfunde.tumblr.com/post/132343589428/objekt-dose-beschreibung-eine-porzellandose-von
 ---
- {{< figure src="tumblr_nx5c6ng3ce1tfawupo1_1280.jpg" >}}  
+ {{< figure src="tumblr_nx5c61SUxV1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Dose  
 **Beschreibung:** Eine Porzellandose von Fürstenberg in der Form einer Maus, im inneren eine Nachbildung einer echten Maus.  
