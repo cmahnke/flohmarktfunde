@@ -46,6 +46,6 @@ Das [Einbinden der Bilder](https://gitlab.com/kaushalmodi/hugo-theme-refined/blo
 
 #Kontakt
 
-"Krähenbeißer" ist ein Projekt von **Christian Mahnke**.
+"Flohmarktfunde" ist ein Projekt von **Christian Mahnke**.
 
 Kontakt ist via [E-Mail](mailto:flohmarktfunde@projektemacher.org) möglich.
