@@ -48,6 +48,10 @@ $font-menu: futura;
 
 .caption {
     font-family: $font-body, futura, helvetica, arial, sans-serif !important;
+
+    img {
+        max-width: 100%;
+    }
 }
 
 .tumblr-url {

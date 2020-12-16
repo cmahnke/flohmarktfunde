@@ -2,7 +2,8 @@
 title: "Mokkaservice"
 date: 2020-10-11T14:19:11+02:00
 tags:
--
+- Geschirr
+- Küche
 ---
  {{< figure src="img_1899.jpg" >}}
  {{< figure src="img_1898.jpg" >}}
