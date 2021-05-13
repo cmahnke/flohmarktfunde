@@ -5,7 +5,7 @@
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
   "dependencies": {
-    "jquery": "^3.5.1"
+    "jquery": "^3.6.0"
   },
   "devDependencies": {
     "pngcrush": "^2.1.0"
