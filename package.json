@@ -8,6 +8,6 @@
     "jquery": "^3.5.1"
   },
   "devDependencies": {
-    "pngcrush": "^2.1.0"
+    "pngcrush": "^3.0.0"
   }
 }

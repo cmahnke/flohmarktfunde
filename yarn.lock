@@ -1033,10 +1033,10 @@ pngcrush-bin@^5.0.0:
     bin-wrapper "^4.0.0"
     logalot "^2.0.0"
 
-pngcrush@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/pngcrush/-/pngcrush-2.1.0.tgz#545bd592e325f41994e2b7519051b843d82e9dee"
-  integrity sha512-ehR7lJpbvePOYiq7MlCbpMlPpxXfhalJI/oiDeibPOBJzFtfbSdjYU7VaDZ2v8JJ+1ToAoQf3cZsSYpQg3HZJw==
+pngcrush@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/pngcrush/-/pngcrush-3.0.0.tgz#6f809d9fbda7204a5217b6e8541703d26a7517a9"
+  integrity sha512-JK5vDS1M7pq0eCxhuha1G7zn8n2QCTTwS6urCzr6QSYeSy/MkflWMM/VaaqC1uNxrknZnX2vIzdHwuzvvQrh/w==
   dependencies:
     gettemporaryfilepath "^1.0.0"
     memoizeasync "^1.0.0"
