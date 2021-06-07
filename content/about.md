@@ -46,6 +46,6 @@ Das [Einbinden der Bilder](https://gitlab.com/kaushalmodi/hugo-theme-refined/blo
 
 #Kontakt
 
-"Flohmarktfunde" ist ein [Projekt](https://projektemacher.org) von **Christian Mahnke**.
+"Flohmarktfunde" ist ein [Projekt](https://projektemacher.org) von **[Christian Mahnke](https://christianmahnke.de/)**.
 
 Kontakt ist via [E-Mail](mailto:flohmarktfunde@projektemacher.org) möglich.
