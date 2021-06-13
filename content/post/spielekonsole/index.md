@@ -1,5 +1,5 @@
 ---
-date: "2014-12-27T15:06:28Z"
+date: 2014-12-27T15:06:28Z
 tags:
 - Spiel
 - Technisches Gerät

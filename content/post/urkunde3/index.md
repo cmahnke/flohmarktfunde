@@ -1,5 +1,5 @@
 ---
-date: "2015-08-21T08:51:27Z"
+date: 2015-08-21T08:51:27Z
 tags:
 - Urkunde
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131476080678/objekt-urkunde-beschreibung-lorem-ipsum-ort

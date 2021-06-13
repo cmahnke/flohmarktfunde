@@ -1,5 +1,5 @@
 ---
-date: "2014-09-14T15:07:42Z"
+date: 2014-09-14T15:07:42Z
 tags:
 - Metall
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131682388403/objekt-tablett-beschreibung-lorem-ipsum-ort

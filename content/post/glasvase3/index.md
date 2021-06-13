@@ -1,5 +1,5 @@
 ---
-date: "2016-01-10T21:01:27Z"
+date: 2016-01-10T21:01:27Z
 tags:
 - Glas
 tumblr_url: https://flohmarktfunde.tumblr.com/post/137104733373/objekt-glasvase-beschreibung-lorem-ipsum-ort

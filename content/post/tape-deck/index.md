@@ -1,5 +1,5 @@
 ---
-date: "2014-12-07T21:26:50Z"
+date: 2014-12-07T21:26:50Z
 tags:
 - Technisches Gerät
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131901430523/objekt-tape-deck-beschreibung-lorem-ipsum-ort

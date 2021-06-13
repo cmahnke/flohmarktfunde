@@ -1,6 +1,6 @@
 ---
 title: Kosmos Spielcomputer Logikus
-date: "2020-08-02T09:30:28Z"
+date: 2020-08-02T09:30:28Z
 tags:
 - Spiel
 - Technisches Gerät

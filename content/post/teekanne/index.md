@@ -1,5 +1,5 @@
 ---
-date: "2015-12-06T21:08:17Z"
+date: 2015-12-06T21:08:17Z
 tags:
 - Porzellan
 tumblr_url: https://flohmarktfunde.tumblr.com/post/137105123303/objekt-teekanne-beschreibung-lorem-ipsum-ort

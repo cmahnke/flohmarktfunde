@@ -1,5 +1,5 @@
 ---
-date: "2015-01-25T15:08:34Z"
+date: 2015-01-25T15:08:34Z
 tags:
 - Spiel
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131682417713/objekt-spiel-beschreibung-lorem-ipsum-ort-lorem

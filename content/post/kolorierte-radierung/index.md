@@ -1,5 +1,5 @@
 ---
-date: "2015-06-14T12:20:16Z"
+date: 2015-06-14T12:20:16Z
 tags:
 - Bild
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131481551733/objekt-kolorierte-radierung-beschreibung-lorem

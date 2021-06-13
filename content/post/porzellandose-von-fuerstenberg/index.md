@@ -1,5 +1,5 @@
 ---
-date: "2015-11-01T18:29:10Z"
+date: 2015-11-01T18:29:10Z
 tags:
 - Porzellan
 tumblr_url: https://flohmarktfunde.tumblr.com/post/132343589428/objekt-dose-beschreibung-eine-porzellandose-von

@@ -1,5 +1,5 @@
 ---
-date: "2015-11-15T12:31:50Z"
+date: 2015-11-15T12:31:50Z
 tags:
 - Lampe
 tumblr_url: https://flohmarktfunde.tumblr.com/post/133331517663/objekt-lampe-beschreibung-lorem-ipsum-ort

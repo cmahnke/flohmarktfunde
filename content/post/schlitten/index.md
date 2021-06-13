@@ -1,5 +1,5 @@
 ---
-date: "2015-02-15T23:30:06Z"
+date: 2015-02-15T23:30:06Z
 
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131706830428/objekt-schlitten-beschreibung-falls-es-im
 ---

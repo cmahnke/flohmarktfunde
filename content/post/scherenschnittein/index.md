@@ -1,5 +1,5 @@
 ---
-date: "2015-10-31T18:27:30Z"
+date: 2015-10-31T18:27:30Z
 
 tumblr_url: https://flohmarktfunde.tumblr.com/post/132343488528/objekt-scherenschnitt-beschreibung-ein
 ---

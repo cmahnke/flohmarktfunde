@@ -1,5 +1,5 @@
 ---
-date: "2015-10-02T08:50:27Z"
+date: 2015-10-02T08:50:27Z
 tags:
 - Metall
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131476047503/objekt-schild-beschreibung-ein-altes

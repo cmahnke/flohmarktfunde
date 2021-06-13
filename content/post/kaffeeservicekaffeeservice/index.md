@@ -1,5 +1,5 @@
 ---
-date: "2015-10-18T08:45:49Z"
+date: 2015-10-18T08:45:49Z
 tags:
 - Geschirr
 - Küche

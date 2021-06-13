@@ -1,5 +1,5 @@
 ---
-date: "2015-09-27T08:47:47Z"
+date: 2015-09-27T08:47:47Z
 tags:
 - Technisches Gerät
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131475951813/objekt-plattenspieler-beschreibung-lorem-ipsum

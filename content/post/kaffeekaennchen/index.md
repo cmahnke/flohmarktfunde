@@ -1,5 +1,5 @@
 ---
-date: "2015-08-21T20:00:37Z"
+date: 2015-08-21T20:00:37Z
 tags:
 - Geschirr
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131500075608/objekt-kaffeek%C3%A4nnchen-beschreibung-k%C3%A4nnchen-mit

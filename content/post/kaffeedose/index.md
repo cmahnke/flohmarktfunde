@@ -1,5 +1,5 @@
 ---
-date: "2015-10-10T23:04:51Z"
+date: 2015-10-10T23:04:51Z
 tags:
 - Keramik
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131576061963/objekt-kaffeedose-beschreibung-lorem-ipsum-ort

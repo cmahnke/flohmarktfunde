@@ -1,5 +1,5 @@
 ---
-date: "2015-09-23T11:13:15Z"
+date: 2015-09-23T11:13:15Z
 tags:
 - Keramik
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131738824923/objekt-b%C3%BCffel-beschreibung-lorem-ipsum-ort

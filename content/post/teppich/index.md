@@ -1,5 +1,5 @@
 ---
-date: "2015-10-04T14:14:44Z"
+date: 2015-10-04T14:14:44Z
 tags:
 - Teppich
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131484858788/objekt-teppich-ort-ebay-kleinanzeigen-preis-25

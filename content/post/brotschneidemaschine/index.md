@@ -1,5 +1,5 @@
 ---
-date: "2015-03-15T14:07:09Z"
+date: 2015-03-15T14:07:09Z
 tags:
 - Küche
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131484617748/objekt-brotschneidemaschine-beschreibung-lorem

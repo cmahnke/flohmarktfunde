@@ -1,5 +1,5 @@
 ---
-date: "2015-01-29T15:10:09Z"
+date: 2015-01-29T15:10:09Z
 tags:
 - Bild
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131682476978/objekt-druck-in-mischtechnik-beschreibung-lorem

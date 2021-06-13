@@ -1,5 +1,5 @@
 ---
-date: "2014-06-30T00:28:38Z"
+date: 2014-06-30T00:28:38Z
 tags:
 - Technisches Gerät
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131710047523/objekt-r%C3%B6hrenradio-beschreibung-lorem-ipsum-ort

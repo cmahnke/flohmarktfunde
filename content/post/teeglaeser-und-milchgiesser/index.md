@@ -1,5 +1,5 @@
 ---
-date: "2015-09-10T20:02:45Z"
+date: 2015-09-10T20:02:45Z
 tags:
 - Glas
 - Geschirr

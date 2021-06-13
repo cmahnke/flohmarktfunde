@@ -1,5 +1,5 @@
 ---
-date: "2015-12-06T21:12:26Z"
+date: 2015-12-06T21:12:26Z
 tags:
 - Glas
 tumblr_url: https://flohmarktfunde.tumblr.com/post/137105350428/objekt-glasschale-beschreibung-lorem-ipsum-ort

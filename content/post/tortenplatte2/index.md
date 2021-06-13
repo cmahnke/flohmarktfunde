@@ -1,5 +1,5 @@
 ---
-date: "2015-10-11T08:49:03Z"
+date: 2015-10-11T08:49:03Z
 tags:
 - Spritzdekor
 - Küche

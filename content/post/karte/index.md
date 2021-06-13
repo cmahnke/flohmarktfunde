@@ -1,5 +1,5 @@
 ---
-date: "2015-10-29T14:11:10Z"
+date: 2015-10-29T14:11:10Z
 tags:
 - Postkarte
 tumblr_url: https://flohmarktfunde.tumblr.com/post/132867609763/objekt-karte-beschreibung-lorem-ipsum-ort

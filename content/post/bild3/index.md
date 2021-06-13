@@ -1,5 +1,5 @@
 ---
-date: "2015-10-11T08:47:18Z"
+date: 2015-10-11T08:47:18Z
 tags:
 - Bild
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131475936353/objekt-lorem-ipsum-beschreibung-lorem-ipsum-ort

@@ -1,5 +1,5 @@
 ---
-date: "2016-01-10T21:01:22Z"
+date: 2016-01-10T21:01:22Z
 tags:
 - Vase
 - Keramik

@@ -1,5 +1,5 @@
 ---
-date: "2014-08-30T16:44:00Z"
+date: 2014-08-30T16:44:00Z
 tags:
 - Glas
 - Aschenbecher

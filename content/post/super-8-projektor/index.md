@@ -1,5 +1,5 @@
 ---
-date: "2014-06-23T11:16:58Z"
+date: 2014-06-23T11:16:58Z
 tags:
 - Technisches Gerät
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131738905703/objekt-super-8-projektor-beschreibung-lorem

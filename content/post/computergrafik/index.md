@@ -1,5 +1,5 @@
 ---
-date: "2015-10-11T08:43:29Z"
+date: 2015-10-11T08:43:29Z
 tags:
 - Bild
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131475800828/objekt-computergrafik-beschreibung-lorem-ipsum

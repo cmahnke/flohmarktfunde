@@ -1,5 +1,5 @@
 ---
-date: "2015-03-07T23:32:53Z"
+date: 2015-03-07T23:32:53Z
 tags:
 - Keramik
 - Spritzdekor

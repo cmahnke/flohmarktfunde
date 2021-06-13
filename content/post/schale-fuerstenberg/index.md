@@ -1,5 +1,5 @@
 ---
-date: "2015-09-18T20:01:23Z"
+date: 2015-09-18T20:01:23Z
 tags:
 - Geschirr
 tumblr_url: https://flohmarktfunde.tumblr.com/post/131500123238/objekt-schale-beschreibung-f%C3%BCrstenberg-ort

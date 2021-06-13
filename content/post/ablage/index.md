@@ -1,5 +1,5 @@
 ---
-date: "2015-10-16T20:04:52Z"
+date: 2015-10-16T20:04:52Z
 tags:
 - Schreibtisch
 - Holz

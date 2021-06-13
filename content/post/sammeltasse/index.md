@@ -1,5 +1,5 @@
 ---
-date: "2015-10-04T08:48:23Z"
+date: 2015-10-04T08:48:23Z
 tags:
 - Sammeltasse
 - Geschirr

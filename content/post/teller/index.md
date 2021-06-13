@@ -1,5 +1,5 @@
 ---
-date: "2015-11-10T00:15:54Z"
+date: 2015-11-10T00:15:54Z
 tags:
 - Geschirr
 - Porzellan

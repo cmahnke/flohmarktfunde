@@ -1,5 +1,5 @@
 ---
-date: "2015-12-20T21:12:38Z"
+date: 2015-12-20T21:12:38Z
 tags:
 - Technisches Gerät
 tumblr_url: https://flohmarktfunde.tumblr.com/post/137105361263/objekt-briefwaage-beschreibung-lorem-ipsum-ort

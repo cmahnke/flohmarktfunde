@@ -1,5 +1,5 @@
 ---
-date: "2015-11-14T00:18:37Z"
+date: 2015-11-14T00:18:37Z
 tags:
 - Porzellan
 - Küche
