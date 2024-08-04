@@ -1,4 +1,5 @@
 @import "observer";
+@import "disable-lang";
 $color-bg: #fff;
 $color-sec-text: #888888;
 $color-body-text: #333333;
@@ -64,4 +65,8 @@ $font-menu: futura;
 
 .caption ul {
     margin-bottom: 1rem;
+}
+
+.links .menu {
+  gap: .6rem;
 }
