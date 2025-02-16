@@ -27,6 +27,8 @@ Zur Recherche zu weiteren Informationen über gefundene Objekte eignen sich die 
 *   Verschiedenes
     *   [TeenageWasteland.de](http://www.teenagewasteland.de/index.html) (wirklich sehenswert!)
     *   [Business Studies: Broadcasting and Its History](https://wyomingllcattorney.com/Blog/Business-Studies-Broadcasting-History) (englisch)
+    *   [Telecommunications history: broadcasting](http://www.ooma.com/blog/telecommunications-history-broadcasting/)
+
 # Blogs
 
 *   [Petra on Pottery](https://petraonpottery.wordpress.com/) (Keramik)
