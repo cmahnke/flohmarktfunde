@@ -37,8 +37,8 @@ jobs:
 
       - name: Install Node dependencies
         run: |
-          yarn install
-          yarn run logo
+          $DEPENDENCY_MANAGER install
+          $DEPENDENCY_MANAGER run logo
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
