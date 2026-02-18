@@ -17,6 +17,11 @@ enableGitInfo = true
     keywords = "Flohmarkt, Trödel, Antiquariat, Flea market, Göttingen, Bremen"
     description = "Fundstücke vom Flohmarkt und aus Trödelläden"
 
+[params.author]
+    email = 'mail@christianmahnke.de'
+    name = 'Christian Mahnke'
+    uri = 'http://www.wikidata.org/entity/Q137668638'
+
 [menu]
     [[menu.main]]
         name = "Home"
