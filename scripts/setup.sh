@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e
+
 convert -resize 640x480 "Source Files/Logo/Logo.png" static/images/logo.png
 
 # Favicons
