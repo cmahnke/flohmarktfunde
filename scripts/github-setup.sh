@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CTX_PATH="$(dirname $(realpath $0))"
+RUN_DEPENDENCIES="bash coreutils imagemagick"
 
-$CTX_PATH/../themes/projektemacher-base/scripts/github/setup-dependencies.sh
-$CTX_PATH/../themes/projektemacher-base/scripts/github/dart-sass.sh
+echo "Installing $RUN_DEPENDENCIES"
+sudo apt-get install $RUN_DEPENDENCIES
