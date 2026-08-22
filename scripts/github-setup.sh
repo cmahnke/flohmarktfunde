@@ -1,4 +1,6 @@
-#!/bin/sh
+#!/usr/bin/env bash
+
+set -e -o pipefail
 
 RUN_DEPENDENCIES="bash coreutils imagemagick"
 
