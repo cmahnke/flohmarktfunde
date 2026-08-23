@@ -1,9 +1,8 @@
 baseURL = "https://flohmarktfunde.projektemacher.org/"
-languageCode = "de"
+locale = "de"
 title = "Flohmarktfunde"
 publishDir = "docs"
 canonifyurls = true
-languagecode = "de"
 defaultcontentlanguage = "de"
 disablePathToLower = true
 theme = "observer-hugo"
