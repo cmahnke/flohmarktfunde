@@ -40,8 +40,6 @@ Meine anderen Blogs sind nun auf [Projektemacher.org](https://projektemacher.org
 
 Diese Seite wurde mit [Hugo](https://gohugo.io/) generiert. Das Theme basiert auf dem Tumbler Theme [Observer von Zack Sultan](http://zacksultan.com). Als Schriftart kommt Futura zum Einsatz. Das Titelbild stammt aus dem Buch “[The Old Curiosity Shop](https://en.wikipedia.org/wiki/The_Old_Curiosity_Shop)” von [Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens).
 
-Als Javascript Framework kommt [jQuery](https://jquery.com/) zum Einsatz.
-
 Das [Einbinden der Bilder](https://gitlab.com/kaushalmodi/hugo-theme-refined/blob/master/layouts/shortcodes/figure.html), die [Tagcloud](http://www.johann-oberdorfer.eu/blog/2020/02/23/20-02-23_tag_cloud_for_hugo/) und die [Anzeige des deutschen Datumformats](https://pfischbeck.de/en/posts/multilingual-dates-in-hugo/) sind aus den jeweils angebenen Quellen übernommen.
 
 #Kontakt

@@ -85,10 +85,6 @@ enableGitInfo = true
         target = "assets/scss"
 
     [[module.mounts]]
-        source = "node_modules/jquery/dist"
-        target = "assets/js/jquery"
-
-    [[module.mounts]]
         source = "static"
         target = "static"
 

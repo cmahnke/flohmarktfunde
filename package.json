@@ -4,9 +4,6 @@
     "logo": "node_modules/.bin/pngcrush -ow static/images/logo.png ",
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
-  "dependencies": {
-    "jquery": "^4.0.0"
-  },
   "devDependencies": {
     "pngcrush": "^3.0.0"
   }
