@@ -1,6 +1,12 @@
 #!/bin/sh
 
-set -e
+set -e -o pipefail
+
+if [ -z "$DEPENDENCY_MANAGER" ] ; then
+  export DEPENDENCY_MANAGER=npm
+fi
+
+$PWD/themes/projektemacher-base/scripts/init/i18n.sh
 
 convert -resize 640x480 "Source Files/Logo/Logo.png" static/images/logo.png
 
@@ -14,5 +20,5 @@ convert static/images/favicon-256.png -resize 128x128 static/images/favicon-128.
 convert static/images/favicon-16.png static/images/favicon-32.png static/images/favicon-64.png static/images/favicon-128.png static/images/favicon-256.png -colors 256 static/images/favicon.ico
 
 # NPM dependencies
-yarn install
-yarn run logo
+$DEPENDENCY_MANAGER install
+$DEPENDENCY_MANAGER run logo
