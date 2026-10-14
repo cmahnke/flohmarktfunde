@@ -1,3 +1,6 @@
 [submodule "themes/observer-hugo"]
 	path = themes/observer-hugo
 	url = https://github.com/cmahnke/observer-hugo.git
+[submodule "themes/projektemacher-base"]
+	path = themes/projektemacher-base
+	url = https://github.com/cmahnke/projektemacher-base.git
