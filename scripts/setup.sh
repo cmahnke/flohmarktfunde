@@ -7,6 +7,7 @@ if [ -z "$DEPENDENCY_MANAGER" ] ; then
 fi
 
 $PWD/themes/projektemacher-base/scripts/init/i18n.sh
+$PWD/themes/projektemacher-base/scripts/init/get-fonts.sh
 
 convert -resize 640x480 "Source Files/Logo/Logo.png" static/images/logo.png
 
