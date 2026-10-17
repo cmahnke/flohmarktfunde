@@ -21,26 +21,60 @@ enableGitInfo = true
     name = 'Christian Mahnke'
     uri = 'http://www.wikidata.org/entity/Q137668638'
 
-[menu]
-    [[menu.main]]
-        name = "Home"
-        weight = 1
-        url = "/"
+[languages]
+    [languages.de]
+        label = "Deutsch"
 
-    [[menu.main]]
-        name = "Über dieses Blog"
-        weight = 2
-        url = "about/"
+        [languages.de.menu]
 
-    [[menu.main]]
-        name = "Flohmärkte und Trödelläden"
-        weight = 3
-        url = "sources/"
+            [[languages.de.menu.main]]
+                name = "Home"
+                weight = 1
+                url = "/"
 
-    [[menu.main]]
-        name = "Informationsquellen"
-        weight = 4
-        url = "links/"
+            [[languages.de.menu.main]]
+                name = "Über dieses Blog"
+                weight = 2
+                url = "about/"
+
+            [[languages.de.menu.main]]
+                name = "Flohmärkte und Trödelläden"
+                weight = 3
+                url = "sources/"
+
+            [[languages.de.menu.main]]
+                name = "Informationsquellen"
+                weight = 4
+                url = "links/"
+
+    [languages.en]
+        label = "English"
+
+        [languages.en.params]
+            keywords = "Flea market, Junk shop, Antiquarian bookshop, Flea market, Göttingen, Bremen"
+            description = "Finds from flea markets and antique shops"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+                name = "Home"
+                weight = 1
+                url = "/"
+
+            [[languages.en.menu.main]]
+                name = "About this blog"
+                weight = 2
+                url = "about/"
+
+            [[languages.en.menu.main]]
+                name = "Flea markets and antique shops"
+                weight = 3
+                url = "sources/"
+
+            [[languages.en.menu.main]]
+                name = "Information sources"
+                weight = 4
+                url = "links/"
 
 [markup]
     defaultMarkdownHandler = 'goldmark'
