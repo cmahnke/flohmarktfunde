@@ -1,12 +1,6 @@
-@import "observer";
-@import "disable-lang";
-$color-bg: #fff;
-$color-sec-text: #888888;
-$color-body-text: #333333;
-$color-link-text: #333333;
-$color-link-hover: #333333;
-$color-link-active: #333333;
-$color-header-text: #444444;
+@use "observer";
+@use "disable-lang";
+
 $font-header: futura;
 $font-title: futura;
 $font-body: futura;
