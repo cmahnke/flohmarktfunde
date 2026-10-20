@@ -5,6 +5,7 @@ tags:
 - Keramik
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/133331551573/objekt-servierplatte-beschreibung-lorem-ipsum
+---
  {{< figure src="tumblr_nxwnziEb2p1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Servierplatte  

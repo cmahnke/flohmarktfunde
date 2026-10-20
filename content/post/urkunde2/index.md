@@ -4,6 +4,7 @@ tags:
 - Urkunde
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/137105118018/objekt-urkunde-beschreibung-lorem-ipsum
+---
  {{< figure src="tumblr_o0sfpo93Sh1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Urkunde  

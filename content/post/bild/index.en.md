@@ -4,6 +4,7 @@ tags:
 - Bild
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/137107350763/objekt-bild-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_o0sf1qx6Fk1tfawupo1_1280.jpg" >}}  
 
 **Object:** Picture  

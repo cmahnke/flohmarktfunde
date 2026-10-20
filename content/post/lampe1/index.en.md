@@ -4,6 +4,7 @@ tags:
 - Lampe
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/133331517663/objekt-lampe-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nxwnofedrF1tfawupo1_1280.jpg" >}}  
 
 **Object:** Lamp  

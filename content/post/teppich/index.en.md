@@ -4,6 +4,7 @@ tags:
 - Teppich
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131484858788/objekt-teppich-ort-ebay-kleinanzeigen-preis-25
+---
  {{< figure src="tumblr_nwgvckjXEp1tfawupo2_r1_1280.jpg" >}}  
 
 **Object:** Carpet  

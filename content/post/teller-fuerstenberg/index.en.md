@@ -4,6 +4,7 @@ tags:
 - Geschirr
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131710512648/objekt-teller-beschreibung-f%C3%BCrstenberg-ort
+---
  {{< figure src="tumblr_nwn8671cyj1tfawupo1_1280.jpg" >}}  
 
 **Object:** Plate  

@@ -4,6 +4,7 @@ tags:
 - Metall
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131476047503/objekt-schild-beschreibung-ein-altes
+---
  {{< figure src="tumblr_nwggc36rMl1tfawupo2_r1_1280.jpg" >}}  
 
 **Object:** Sign  

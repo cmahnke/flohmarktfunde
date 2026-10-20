@@ -4,6 +4,7 @@ tags:
 - Glas
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/137105350428/objekt-glasschale-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_o0sf8xdDmc1tfawupo1_1280.jpg" >}}  
 
 **Object:** Glass bowl  

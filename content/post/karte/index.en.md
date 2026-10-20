@@ -4,6 +4,7 @@ tags:
 - Postkarte
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/132867609763/objekt-karte-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nxjtvl2AIV1tfawupo1_1280.jpg" >}}  
  {{< figure src="tumblr_nxjtvl2AIV1tfawupo2_1280.jpg" >}}  
 

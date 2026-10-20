@@ -4,6 +4,7 @@ tags:
 - Porzellan
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/137105123303/objekt-teekanne-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_o0sfanYSE81tfawupo1_1280.jpg" >}}  
 
 **Object:** Teapot  

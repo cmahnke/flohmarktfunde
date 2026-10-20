@@ -5,6 +5,7 @@ tags:
 - Metall
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131706218288/objekt-schale-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nwn4kd7wtR1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Schale  

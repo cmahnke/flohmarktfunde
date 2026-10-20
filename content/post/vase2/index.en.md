@@ -5,6 +5,7 @@ tags:
 - Vase
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131500219438/objekt-vase-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nwhbhfSd021tfawupo2_r1_1280.jpg" >}}  
 
 **Object:** Vase  

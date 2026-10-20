@@ -5,6 +5,7 @@ date: 2020-08-16T20:01:09+02:00
 params:
   metaPage: true
   displayInList: false
+---
 **This page is no longer up to date!**
 
 # Flea markets

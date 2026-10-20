@@ -5,6 +5,7 @@ tags:
 - Keramik
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/137104728558/objekt-vase-beschreibung-lorem-ipsum-ort-hansa
+---
  {{< figure src="tumblr_o0sf39wsvu1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Vase  

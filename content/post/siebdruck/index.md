@@ -4,6 +4,7 @@ tags:
 - Bild
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131613332558/objekt-siebdruck-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nwkgxbhL0B1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Siebdruck  

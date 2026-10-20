@@ -5,6 +5,7 @@ tags:
 - Keramik
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131682233503/objekt-dose-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nwmhlbmHSz1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Dose  

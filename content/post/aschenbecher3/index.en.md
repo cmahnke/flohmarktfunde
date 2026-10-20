@@ -5,6 +5,7 @@ tags:
 - Aschenbecher
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131686149978/objekt-aschenbecher-beschreibung-lorem-ipsum
+---
  {{< figure src="tumblr_nwmm9cnRrR1tfawupo1_1280.jpg" >}}  
 
 **Object:** Ashtray  

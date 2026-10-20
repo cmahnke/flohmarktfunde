@@ -4,6 +4,7 @@ tags:
 - Technisches Gerät
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131710047523/objekt-r%C3%B6hrenradio-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nwn7rqkoke1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Röhrenradio  

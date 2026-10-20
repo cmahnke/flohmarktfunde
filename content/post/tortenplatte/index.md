@@ -5,6 +5,7 @@ tags:
 - Spritzdekor
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131706988033/objekt-tortenplatte-beschreibung-lorem-ipsum
+---
  {{< figure src="tumblr_nwn56tpbUY1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Tortenplatte  

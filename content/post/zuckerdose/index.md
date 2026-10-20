@@ -5,6 +5,7 @@ tags:
 - Küche
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/133159224273/objekt-zuckerdose-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nxrzu8yJVt1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Zuckerdose  

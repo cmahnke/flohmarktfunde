@@ -4,6 +4,7 @@ tags:
 - Bild
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131546981478/objekt-aquarell-beschreibung-lorem-ipsum-ort-3
+---
  {{< figure src="tumblr_nwijx4knH61tfawupo2_r1_1280.jpg" >}}  
 
 **Object:** Watercolour  

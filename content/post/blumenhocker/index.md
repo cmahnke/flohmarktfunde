@@ -4,6 +4,7 @@ tags:
 - Möbel
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/132344001693/objekt-blumenhocker-beschreibung-lorem-ipsum
+---
  {{< figure src="tumblr_nx02r5HCYU1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Blumenhocker  

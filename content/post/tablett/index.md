@@ -4,6 +4,7 @@ tags:
 - Metall
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131682388403/objekt-tablett-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_nwmhsuS7Ea1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Tablett  

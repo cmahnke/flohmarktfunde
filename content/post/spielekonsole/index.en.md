@@ -5,6 +5,7 @@ tags:
 - Technisches Gerät
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131682346493/objekt-spielekonsole-beschreibung-lorem-ipsum
+---
  {{< figure src="tumblr_nwmhqsWcbE1tfawupo1_1280.jpg" >}}  
 
 **Object:** Game console  

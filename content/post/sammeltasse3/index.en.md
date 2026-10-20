@@ -5,6 +5,7 @@ tags:
 - Porzellan
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/137105127518/objekt-sammeltasse-beschreibung-lorem-ipsum-ort
+---
  {{< figure src="tumblr_o0sfhnshjI1tfawupo1_1280.jpg" >}}  
 
 **Object:** Collector's cup  
