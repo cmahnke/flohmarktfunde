@@ -2,8 +2,8 @@
 date: 2015-11-01T18:29:10Z
 tags:
 - Porzellan
-tumblr_url: https://flohmarktfunde.tumblr.com/post/132343589428/objekt-dose-beschreibung-eine-porzellandose-von
----
+params:
+  tumblr_url: https://flohmarktfunde.tumblr.com/post/132343589428/objekt-dose-beschreibung-eine-porzellandose-von
  {{< figure src="tumblr_nx5c6ng3ce1tfawupo1_1280.jpg" >}}  
 
 **Objekt:** Dose  

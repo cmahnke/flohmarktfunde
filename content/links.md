@@ -2,9 +2,9 @@
 title: Links
 slug: links
 date: 2020-08-16T20:01:09+02:00
-metaPage: true
-displayInList: false
----
+params:
+  metaPage: true
+  displayInList: false
 Zur Recherche zu weiteren Informationen über gefundene Objekte eignen sich die folgenden Seiten:
 
 # Shops / Verzeichnisse

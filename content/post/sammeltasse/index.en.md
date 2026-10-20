@@ -5,8 +5,8 @@ tags:
 - Geschirr
 - Küche
 - Porzellan
-tumblr_url: https://flohmarktfunde.tumblr.com/post/131475970708/objekt-sammeltasse-beschreibung-lorem-ipsum-ort
----
+params:
+  tumblr_url: https://flohmarktfunde.tumblr.com/post/131475970708/objekt-sammeltasse-beschreibung-lorem-ipsum-ort
  {{< figure src="tumblr_nwgg8oVJCR1tfawupo2_r1_1280.jpg" >}}  
 
 **Object:** Collector's cup  

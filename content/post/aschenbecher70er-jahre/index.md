@@ -4,8 +4,8 @@ tags:
 - Glas
 - Aschenbecher
 - Metall
-tumblr_url: https://flohmarktfunde.tumblr.com/post/131500273338/objekt-aschenbecher-beschreibung-70er-jahre
----
+params:
+  tumblr_url: https://flohmarktfunde.tumblr.com/post/131500273338/objekt-aschenbecher-beschreibung-70er-jahre
  {{< figure src="tumblr_nwhbj5Igub1tfawupo2_r1_1280.jpg" >}}  
 
 **Objekt:** Aschenbecher  

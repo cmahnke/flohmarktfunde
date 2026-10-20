@@ -4,8 +4,8 @@ tags:
 - Geschirr
 - Küche
 - Porzellan
-tumblr_url: https://flohmarktfunde.tumblr.com/post/131475881763/objekt-kaffeeservice-beschreibung-kaffeeservice
----
+params:
+  tumblr_url: https://flohmarktfunde.tumblr.com/post/131475881763/objekt-kaffeeservice-beschreibung-kaffeeservice
  {{< figure src="tumblr_nwgg4e4eXP1tfawupo2_r1_1280.jpg" >}}  
 
 **Object:** Coffee service  

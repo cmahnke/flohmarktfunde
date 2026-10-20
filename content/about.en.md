@@ -2,9 +2,9 @@
 title: About this blog
 slug: about
 date: 2020-08-16T20:01:09+02:00
-metaPage: true
-displayInList: false
----
+params:
+  metaPage: true
+  displayInList: false
 
 This blog shows interesting artifacts that I have acquired on my visits to flea markets, in antique shops and online in and around Göttingen. The objects shown are only a selection; media such as books, magazines, postcards, posters, records, tapes, video games and films as well as everyday objects are usually not filed.
 

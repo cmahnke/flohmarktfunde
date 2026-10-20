@@ -2,9 +2,9 @@
 title: Links
 slug: links
 date: 2020-08-16T20:01:09+02:00
-metaPage: true
-displayInList: false
----
+params:
+  metaPage: true
+  displayInList: false
 The following sites are useful for researching further information about found objects:
 
 # Shops / directories

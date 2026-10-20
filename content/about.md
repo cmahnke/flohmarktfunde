@@ -2,9 +2,9 @@
 title: Über dieses Blog
 slug: about
 date: 2020-08-16T20:01:09+02:00
-metaPage: true
-displayInList: false
----
+params:
+  metaPage: true
+  displayInList: false
 
 Dieses Blog zeigt interessante Artefakte, die ich auf meinen Besuchen auf Flohmärkten, in Trödelläden und Online in und um Göttingen erstanden habe. Dabei stellen die abgebildeten Objekte nur eine Auswahl da, Medien wie Bücher, Zeitschriften, Postkarten, Plakate, Schallplatten, Tonbänder, Videospiele und Filme bzw. Gebrauchsgegenstände werden in der Regel nicht abgelegt.
 
