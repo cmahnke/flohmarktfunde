@@ -12,3 +12,11 @@ data/stats.json
 static/fonts/
 assets/css/fonts/
 assets/scss/npm-fonts/
+
+/package-lock.json
+
+/npm-shrinkwrap.json
+
+/pnpm-lock.yaml
+
+/yarn.lock
