@@ -8,6 +8,8 @@ disablePathToLower = true
 theme = ["observer-hugo", "projektemacher-base"]
 enableGitInfo = true
 
+enableRobotsTXT = true
+
 [params]
     copyrightYears = "2014 - 2020"
     logo = "/images/logo.png"
@@ -129,3 +131,6 @@ enableGitInfo = true
 [security]
   [security.http]
     mediaTypes = ['^application/json$', '^application/json;\s?charset=[uU][tT][fF]-8$', '^application/sparql-results\+json;\s?charset=[uU][tT][fF]-8$']
+
+[params.robots]
+  llmsTXT = true
