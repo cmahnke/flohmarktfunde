@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.Lang }}">
+<html lang="{{ site.Language.Name }}">
 
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Language" content="{{ site.Language.Lang }}">
+    <meta http-equiv="Content-Language" content="{{ site.Language.Name }}">
     {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     <meta name="description" content="{{ .Description | default (.Summary | default site.Params.description ) }}">
     <meta name="keywords" content="{{ (delimit .Keywords ",") | default site.Params.keywords }}">
