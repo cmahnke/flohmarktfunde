@@ -1,0 +1,1 @@
+window.toggleMenu=function(e){let t=e.getAttribute("aria-expanded")==="true";e.setAttribute("aria-expanded",t?"false":"true")};function t(){document.querySelectorAll(".menu-button[aria-controls]").forEach(function(e){e.addEventListener("click",function(){window.toggleMenu(e)})})}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",t):t()
