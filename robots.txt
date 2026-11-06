@@ -1,0 +1,13 @@
+User-agent: *
+
+
+Disallow: /*.bib$
+
+Disallow: /*.json$
+
+Disallow: /*.xml$
+
+Sitemap: https://flohmarktfunde.projektemacher.org/sitemap.xml
+
+
+llms-txt: https://flohmarktfunde.projektemacher.org/llms.txt
