@@ -3,6 +3,12 @@ title: "Farbholzschnitt"
 date: 2020-12-12T09:45:11+02:00
 tags:
 - Bild
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: img_2048.jpg
+- src: img_2049.jpg
 ---
  {{< figure src="img_2048.jpg" >}}
  {{< figure src="img_2049.jpg" >}}

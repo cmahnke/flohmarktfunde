@@ -1,4 +1,5 @@
 ---
+title: "Kaffeefilter"
 date: 2015-10-11T08:46:48Z
 tags:
 - Küche
@@ -6,6 +7,11 @@ tags:
 - Porzellan
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131475920668/objekt-kaffeefilter-beschreibung-lorem-ipsum
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwgg6001nY1tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwgg6001nY1tfawupo2_r1_1280.jpg" >}}  
 

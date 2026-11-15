@@ -1,7 +1,13 @@
 ---
+title: "Scherenschnitt"
 date: 2015-10-31T18:27:30Z
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/132343488528/objekt-scherenschnitt-beschreibung-ein
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nx5c8n1wmw1tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nx5c8n1wmw1tfawupo1_1280.jpg" >}}  
 

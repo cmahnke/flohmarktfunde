@@ -1,9 +1,15 @@
 ---
+title: "Carpet"
 date: 2015-10-04T14:14:44Z
 tags:
 - Teppich
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131484858788/objekt-teppich-ort-ebay-kleinanzeigen-preis-25
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwgvckjXEp1tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwgvckjXEp1tfawupo2_r1_1280.jpg" >}}  
 

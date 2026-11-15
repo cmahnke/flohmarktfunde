@@ -1,10 +1,16 @@
 ---
+title: "Tea glasses and milk pourer"
 date: 2015-09-10T20:02:45Z
 tags:
 - Glas
 - Geschirr
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131500194848/objekt-teegl%C3%A4ser-und-milchgiesser-beschreibung
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwhbgmDNfD1tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwhbgmDNfD1tfawupo2_r1_1280.jpg" >}}  
 

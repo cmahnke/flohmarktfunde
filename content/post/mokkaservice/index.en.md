@@ -4,6 +4,12 @@ date: 2020-10-11T14:19:11+02:00
 tags:
 - Geschirr
 - Küche
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: img_1899.jpg
+- src: img_1898.jpg
 ---
  {{< figure src="img_1899.jpg" >}}
  {{< figure src="img_1898.jpg" >}}

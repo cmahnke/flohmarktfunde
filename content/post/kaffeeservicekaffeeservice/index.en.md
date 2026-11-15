@@ -1,4 +1,5 @@
 ---
+title: "Coffee service"
 date: 2015-10-18T08:45:49Z
 tags:
 - Geschirr
@@ -6,6 +7,11 @@ tags:
 - Porzellan
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131475881763/objekt-kaffeeservice-beschreibung-kaffeeservice
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwgg4e4eXP1tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwgg4e4eXP1tfawupo2_r1_1280.jpg" >}}  
 

@@ -1,9 +1,15 @@
 ---
+title: "Bild3"
 date: 2015-10-11T08:47:18Z
 tags:
 - Bild
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131475936353/objekt-lorem-ipsum-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwgg6uYAQP1tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwgg6uYAQP1tfawupo2_r1_1280.jpg" >}}  
 

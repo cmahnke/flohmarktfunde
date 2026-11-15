@@ -1,9 +1,16 @@
 ---
+title: "Karte"
 date: 2015-10-29T14:11:10Z
 tags:
 - Postkarte
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/132867609763/objekt-karte-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nxjtvl2AIV1tfawupo1_1280.jpg
+- src: tumblr_nxjtvl2AIV1tfawupo2_1280.jpg
 ---
  {{< figure src="tumblr_nxjtvl2AIV1tfawupo1_1280.jpg" >}}  
  {{< figure src="tumblr_nxjtvl2AIV1tfawupo2_1280.jpg" >}}  

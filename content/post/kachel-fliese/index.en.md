@@ -1,9 +1,15 @@
 ---
+title: "Tile"
 date: 2015-11-11T00:16:05Z
 tags:
 - Keramik
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/133159088803/objekt-kachel-fliese-beschreibung-lorem-ipsum
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nxpaj5ntC81tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nxpaj5ntC81tfawupo1_1280.jpg" >}}  
 

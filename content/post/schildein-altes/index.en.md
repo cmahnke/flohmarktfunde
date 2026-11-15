@@ -1,9 +1,15 @@
 ---
+title: "Sign"
 date: 2015-10-02T08:50:27Z
 tags:
 - Metall
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131476047503/objekt-schild-beschreibung-ein-altes
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwggc36rMl1tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwggc36rMl1tfawupo2_r1_1280.jpg" >}}  
 

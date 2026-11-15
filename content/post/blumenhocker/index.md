@@ -1,9 +1,15 @@
 ---
+title: "Blumenhocker"
 date: 2015-10-29T18:35:47Z
 tags:
 - Möbel
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/132344001693/objekt-blumenhocker-beschreibung-lorem-ipsum
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nx02r5HCYU1tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nx02r5HCYU1tfawupo1_1280.jpg" >}}  
 

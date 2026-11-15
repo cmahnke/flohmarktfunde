@@ -1,9 +1,15 @@
 ---
+title: "Coffee jar"
 date: 2015-10-10T23:04:51Z
 tags:
 - Keramik
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131576061963/objekt-kaffeedose-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwjek3VngK1tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwjek3VngK1tfawupo2_r1_1280.jpg" >}}  
 

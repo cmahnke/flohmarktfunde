@@ -1,9 +1,15 @@
 ---
+title: "Tape Deck"
 date: 2014-12-07T21:26:50Z
 tags:
 - Technisches Gerät
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131901430523/objekt-tape-deck-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwo03wskcq1tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nwo03wskcq1tfawupo1_1280.jpg" >}}  
 

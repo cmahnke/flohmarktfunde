@@ -1,9 +1,15 @@
 ---
+title: "Brotschneidemaschine"
 date: 2015-03-15T14:07:09Z
 tags:
 - Küche
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131484617748/objekt-brotschneidemaschine-beschreibung-lorem
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwguzy5n8s1tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwguzy5n8s1tfawupo2_r1_1280.jpg" >}}  
 

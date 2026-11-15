@@ -1,9 +1,15 @@
 ---
+title: "Tischdeko"
 date: 2015-09-26T08:44:09Z
 tags:
 - Holz
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131475825058/objekt-lorem-ipsum-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwgg1mPKga1tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nwgg1mPKga1tfawupo1_1280.jpg" >}}  
 

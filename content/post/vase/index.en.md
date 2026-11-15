@@ -1,10 +1,16 @@
 ---
+title: "Vase"
 date: 2015-03-07T23:30:47Z
 tags:
 - Keramik
 - Vase
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131706869493/objekt-vase-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwn53b2KKZ1tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nwn53b2KKZ1tfawupo1_1280.jpg" >}}  
 

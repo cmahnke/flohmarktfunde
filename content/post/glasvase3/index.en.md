@@ -1,9 +1,15 @@
 ---
+title: "Glass vase"
 date: 2016-01-10T21:01:27Z
 tags:
 - Glas
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/137104733373/objekt-glasvase-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_o0sf2fRDnS1tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_o0sf2fRDnS1tfawupo1_1280.jpg" >}}  
 

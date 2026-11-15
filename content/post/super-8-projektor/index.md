@@ -1,9 +1,15 @@
 ---
+title: "Super 8 Projektor"
 date: 2014-06-23T11:16:58Z
 tags:
 - Technisches Gerät
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131738905703/objekt-super-8-projektor-beschreibung-lorem
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwo05ccCxf1tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nwo05ccCxf1tfawupo1_1280.jpg" >}}  
 

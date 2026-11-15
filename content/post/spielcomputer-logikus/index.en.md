@@ -4,6 +4,11 @@ date: 2020-08-02T09:30:28Z
 tags:
 - Spiel
 - Technisches Gerät
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: IMG_1791.jpg
 ---
  {{< figure src="IMG_1791.jpg" >}}  
 

@@ -1,7 +1,13 @@
 ---
+title: "Zahlteller"
 date: 2015-05-22T11:45:31Z
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131739563503/objekt-lorem-ipsum-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwnzr4BxMF1tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nwnzr4BxMF1tfawupo1_1280.jpg" >}}  
 

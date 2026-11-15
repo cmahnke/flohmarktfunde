@@ -1,9 +1,15 @@
 ---
+title: "Schale"
 date: 2015-10-25T19:28:22Z
 tags:
 - Keramik
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131893883253/objekt-schale-beschreibung-lorem-ipsum-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwsgamsiC21tfawupo1_1280.jpg
 ---
  {{< figure src="tumblr_nwsgamsiC21tfawupo1_1280.jpg" >}}  
 

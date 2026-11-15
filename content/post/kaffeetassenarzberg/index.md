@@ -1,9 +1,15 @@
 ---
+title: "Kaffeetassen"
 date: 2015-02-13T20:02:08Z
 tags:
 - Geschirr
 params:
   tumblr_url: https://flohmarktfunde.tumblr.com/post/131500159768/objekt-kaffeetassen-beschreibung-arzberg-ort
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: tumblr_nwhbflDf791tfawupo2_r1_1280.jpg
 ---
  {{< figure src="tumblr_nwhbflDf791tfawupo2_r1_1280.jpg" >}}  
 
