@@ -7,21 +7,23 @@ defaultContentLanguage = "de"
 disablePathToLower = true
 theme = ["observer-hugo", "projektemacher-base"]
 enableGitInfo = true
-
 enableRobotsTXT = true
 
 [params]
-    copyrightYears = "2014 - 2020"
-    logo = "/images/logo.png"
-    linkTumblr = true
-    keywords = "Flohmarkt, Trödel, Antiquariat, Flea market, Göttingen, Bremen"
-    description = "Fundstücke vom Flohmarkt und aus Trödelläden"
-    schemaPerson = "https://christianmahnke.de/person.jsonld"
+  copyrightYears = "2014 - 2020"
+  logo = "/images/logo.png"
+  linkTumblr = true
+  keywords = "Flohmarkt, Trödel, Antiquariat, Flea market, Göttingen, Bremen"
+  description = "Fundstücke vom Flohmarkt und aus Trödelläden"
+  schemaPerson = "https://christianmahnke.de/person.jsonld"
 
 [params.author]
-    email = 'mail@christianmahnke.de'
-    name = 'Christian Mahnke'
-    uri = 'http://www.wikidata.org/entity/Q137668638'
+  email = 'mail@christianmahnke.de'
+  name = 'Christian Mahnke'
+  uri = 'http://www.wikidata.org/entity/Q137668638'
+
+[params.iiif]
+  defaultBehavior = "individuals"
 
 [languages]
     [languages.de]
